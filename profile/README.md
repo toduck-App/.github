@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-  Copyright © 2025 To.duck Team
+  Copyright © 2026 To.duck Team
 </p>
